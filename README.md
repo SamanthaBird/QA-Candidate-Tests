@@ -12,12 +12,12 @@ In this repo, you will find an example test file that runs successfuly in our au
 # Tasks
 
 ## Task 1 - Manual test
-Time allowed: 30 minutes
+**Time allowed:** 30 minutes
 
 Create as many test cases as possible for the Login page on Lexology: https://www.lexology.com/account/login?returnurl=%2F 
 The tests should be written in the Gherkin syntax (GIVEN, WHEN and THEN) and should focus on the elements and functionality of the Login page only. The header and footer elements/functionality are not under test except for the Login button itself. 
 
 ## Task 2 - Automation test
-Time allowed: 1.5 hours
+**Time allowed:** 1.5 hours
 
 If you have previous automation experience with Java and Selenium, create as many automation scripts as possible for the test cases you created in task 1. You can use the files in this repositry as a guideline. Download and update them as required and send over to the email above. 
