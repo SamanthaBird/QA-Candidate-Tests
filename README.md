@@ -7,7 +7,7 @@ Law Business Research is a leading provider of business information, legal analy
 One of these subscription products is [Lexology](https://www.lexology.com/).
 
 # Files 
-In this repo, you will find an example test file that runs successfuly in our automation framework. Our automation framework runs in a Docker container so that it can be easily installed and executed on any machine. In the framework, we use Selenium and Java. For each test, we detail the acceptance criteria in the Gherkin Syntax so that the items under test can be reviewed by non-technical employees at LBR where needed. 
+In this repo, you will find an example test file that runs successfully in our automation framework. Our automation framework runs in a Docker container so that it can be easily installed and executed on any machine. In the framework, we use Selenium and Java. For each test, we detail the acceptance criteria in the Gherkin Syntax so that the items under test can be reviewed by non-technical employees at LBR where needed. 
 
 # Tasks
 
@@ -20,4 +20,4 @@ The tests should be written in the Gherkin syntax (GIVEN, WHEN and THEN) and sho
 ## Task 2 - Automation test
 **Time allowed:** 1.5 hours
 
-If you have previous automation experience with Java and Selenium, create as many automation scripts as possible for the test cases you created in task 1. You can use the files in this repositry as a guideline. Download and update them as required and send over to the email above. 
+If you have previous automation experience with Java and Selenium, create as many automation scripts as possible for the test cases you created in task 1. You can use the files in this repository as a guideline. Download and update them as required and send over to the email above. 
