@@ -1,0 +1,5 @@
+{
+  "environment": "LIVE",
+  "lexology_test_domain": "https://www.lexology.com/",
+  "php_debugger": false
+}
